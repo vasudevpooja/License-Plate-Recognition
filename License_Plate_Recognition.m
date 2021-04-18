@@ -29,4 +29,4 @@ for n=1:count
        alphabets=Letter_detection(Iprops(n).Image); 
        noPlate=[noPlate alphabets] 
    end
-end
+end 
