@@ -4,14 +4,14 @@ The Automatic Number plate Recognition (ANPR) system is based on image processin
 # How the code works? 
 ![working of the code](https://user-images.githubusercontent.com/76071184/147873309-2b0f9f3c-2697-4d0e-9735-abb437a8a034.PNG)
 
-# [License_Plate_Recognition.m](https://github.com/vasudevpooja/License-Plate-Recognition/blob/main/License_Plate_Recognition.m)
+# [License Plate Recognition](https://github.com/vasudevpooja/License-Plate-Recognition/blob/main/License_Plate_Recognition.m)
 Process the image and then call the below two m-files to detect the number
 
 **Explanation/Algorithmic Steps for the Code:**
 
 ![License Plate Recognition](https://user-images.githubusercontent.com/76071184/147873336-15e838ee-8866-4f98-86eb-f9712213720a.PNG)
 
-# [Letter_and_Number_Recongition.m](https://github.com/vasudevpooja/License-Plate-Recognition/blob/main/Letter_and_Number_Recongition.m)
+# [Letter and Number Recongition](https://github.com/vasudevpooja/License-Plate-Recognition/blob/main/Letter_and_Number_Recongition.m)
 
 Reads the characters from the input image and find the highest matched corresponding alphanumeric value.
 
@@ -19,7 +19,7 @@ Reads the characters from the input image and find the highest matched correspon
 
 ![letter](https://user-images.githubusercontent.com/76071184/147873344-10616964-1f01-4b44-a991-af7165219ef1.PNG)
 
-# [Sample_Template_in_bmp_format.m](https://github.com/vasudevpooja/License-Plate-Recognition/blob/main/Sample_Template_in_bmp_format.m)
+# [Sample Template in bmp format](https://github.com/vasudevpooja/License-Plate-Recognition/blob/main/Sample_Template_in_bmp_format.m)
 
 This is used to call the saved images of alpha-numerics and then save them as a new template in MATLAB memory.
 
